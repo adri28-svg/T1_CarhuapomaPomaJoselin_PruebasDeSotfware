@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Taller de Citas — TDD y BDD
 
 Aplicación de referencia del curso 2424 (Pruebas de Software, Cibertec) para el tema T1: TDD con JUnit 5 y Mockito, BDD con Cucumber. El dominio es la gestión de citas de un taller mecánico: agendar, cancelar y buscar mecánicos disponibles, con reglas de negocio que se prueban de forma aislada, sin base de datos ni contexto de Spring.
@@ -89,3 +90,6 @@ Documentación interactiva de la API en:
 ```
 http://localhost:8080/swagger-ui.html
 ```
+=======
+# T1_CarhuapomaPomaJoselin_PruebasDeSotfware
+>>>>>>> eb49b92a874badeb1109c83fdbff12207f4e7b06
